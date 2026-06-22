@@ -25,7 +25,7 @@ el análisis estadístico y la detección de anomalías en Python.
 
 El proyecto se ha desarrollado y validado con el siguiente entorno:
 
-- NS-3 versión 3.42
+- NS-3 versión 3.47
 - Python 3.12
 - scikit-learn 1.5.2, pandas 2.2.2, scipy 1.14.0, matplotlib 3.9.0
 
